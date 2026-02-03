@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Fatma Badawy
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Data+Science+Graduate+DEPI;Deep+Learning+Learner)
+
 
 🎓 Computer Science Student  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-🧠 Deep Learning Trainee  
+🤖 Interested in Artificial Intelligence & Machine Learning   
 📊 Data Science Graduate – DEPI Program  
 
 ---
