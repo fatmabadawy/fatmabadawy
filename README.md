@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Fatma Badawy
+## 👋 Hi, I'm Fatma Badawy  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Data+Science+Graduate+DEPI;Deep+Learning+Learner)
 
-
 🎓 Computer Science Student  
-🤖 Interested in Artificial Intelligence & Machine Learning   
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🧠 Deep Learning Learner  
 📊 Data Science Graduate – DEPI Program  
 
 ---
@@ -19,6 +19,15 @@
 
 ---
 
+## 💻 Web Development Skills
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+
+---
+
 ## 🎓 Training
 - **Digital Egypt Pioneers Initiative (DEPI) – Data Science Track**
   - Python for Data Analysis
@@ -26,13 +35,14 @@
   - Data Cleaning & Preprocessing
   - EDA & Visualization
   - Introduction to Machine Learning
+  - Hands-on Projects
 
 ---
 
 ## 📌 Projects
-- 📊 Data Analysis Projects
+- 📊 Data Analysis Projects (EDA & Insights)
 - 🤖 Machine Learning Mini Projects
-- 💻 Web Projects (React)
+- 💻 Web Projects (React Dashboards)
 
 ---
 
@@ -40,3 +50,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmabadawy&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmabadawy&layout=compact&theme=tokyonight)
+
+---
+
+✨ Thanks for visiting my profile  
+Feel free to explore my repositories 🤍
