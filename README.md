@@ -1,34 +1,38 @@
-# Hi 👋 I'm Fatema Badawy  
+## 👋 Hi, I'm Fatma Badawy
 
-🎓 Computer Science student  
-💻 Frontend Developer | React  
-📊 Data Science Trainee  
+🎓 Computer Science Student  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🧠 Deep Learning Trainee  
+📊 Data Science Graduate – DEPI Program  
 
 ---
 
-## 🛠 Skills
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
-- Node.js, Express
-- Python, Pandas, NumPy
-- Git & GitHub
+## 🧠 AI & Data Science Skills
+- Python
+- NumPy, Pandas
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning Basics
+- Deep Learning Fundamentals
+
+---
+
+## 🎓 Training
+- **Digital Egypt Pioneers Initiative (DEPI) – Data Science Track**
+  - Python for Data Analysis
+  - Statistics & Probability
+  - Data Cleaning & Preprocessing
+  - EDA & Visualization
+  - Introduction to Machine Learning
 
 ---
 
 ## 📌 Projects
-- 🔹 Alumni Management System (React + Node)
-- 🔹 Blog Dashboard (React + API)
-- 🔹 Data Analysis Projects (EDA, Visualization)
+- 📊 Data Analysis Projects
+- 🤖 Machine Learning Mini Projects
+- 💻 Web Projects (React)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React
-- Machine Learning Basics
-
----
-
-## 📫 Contact Me
-- LinkedIn: (حطي اللينك)
-- Email: (إيميلك)
-
+> "Artificial Intelligence is the new electricity." – Andrew Ng
