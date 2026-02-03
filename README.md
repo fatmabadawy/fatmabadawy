@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Fatema Badawy  
 
-<!--
-**fatmabadawy/fatmabadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Frontend Developer | React  
+📊 Data Science Trainee  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Node.js, Express
+- Python, Pandas, NumPy
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🔹 Alumni Management System (React + Node)
+- 🔹 Blog Dashboard (React + API)
+- 🔹 Data Analysis Projects (EDA, Visualization)
+
+---
+
+## 🌱 Currently Learning
+- Advanced React
+- Machine Learning Basics
+
+---
+
+## 📫 Contact Me
+- LinkedIn: (حطي اللينك)
+- Email: (إيميلك)
+
