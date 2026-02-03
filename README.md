@@ -51,6 +51,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmabadawy&layout=compact&theme=tokyonight)
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=fatmabadawy&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmabadawy&layout=compact&theme=tokyonight" />
+
+
 ---
 
 ✨ Thanks for visiting my profile  
