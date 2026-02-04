@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Fatma Badawy  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Data+Science+Graduate+DEPI;Deep+Learning+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast)
 
 🎓 Computer Science Student  
 🤖 Interested in Artificial Intelligence & Machine Learning  
