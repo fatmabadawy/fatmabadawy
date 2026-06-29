@@ -46,13 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmabadawy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmabadawy&layout=compact&theme=tokyonight)
-
-
----
 
 ✨ Thanks for visiting my profile  
 Feel free to explore my repositories 🤍
