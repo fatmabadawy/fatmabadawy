@@ -39,13 +39,6 @@
 
 ---
 
-## 📌 Projects
-- 📊 Data Analysis Projects (EDA & Insights)
-- 🤖 Machine Learning Mini Projects
-- 💻 Web Projects (React Dashboards)
-
----
-
 
 ✨ Thanks for visiting my profile  
 Feel free to explore my repositories 🤍
